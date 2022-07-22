@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## How to run the project
 
-In the project directory, you can run:
+In the project directory run:
 
 ### `npm start`
 
@@ -17,8 +17,8 @@ You may also see any lint errors in the console.
 ## Dependencies
 
 #### This project uses:
--React v18
--Bootstrap 5.2
--FontAwesome 6.1
+- React v18
+- Bootstrap 5.2
+- FontAwesome 6.1
 
-###Free tu use in any form, fork it, modify it and use it, and mentioning would be welcome
+### Free tu use in any form, fork it, modify it and use it, and mentioning would be welcome
